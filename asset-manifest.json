@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cbd1690e.css",
+    "main.js": "/static/js/main.c499b10a.js",
+    "static/media/loading.gif": "/static/media/loading.97cba21154f9f1531fd2.gif",
+    "static/media/sunMode.png": "/static/media/sunMode.b3a43113c8b707f8cda5.png",
+    "index.html": "/index.html",
+    "main.cbd1690e.css.map": "/static/css/main.cbd1690e.css.map",
+    "main.c499b10a.js.map": "/static/js/main.c499b10a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbd1690e.css",
+    "static/js/main.c499b10a.js"
+  ]
+}
